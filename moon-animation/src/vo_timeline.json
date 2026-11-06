@@ -1,0 +1,254 @@
+[
+ {
+  "start": 0.1,
+  "end": 0.64,
+  "text": "Tonight,",
+  "syl": 2
+ },
+ {
+  "start": 0.96,
+  "end": 1.84,
+  "text": "look up at the Moon.",
+  "syl": 5
+ },
+ {
+  "start": 2.74,
+  "end": 4.12,
+  "text": "Now imagine it's gone.",
+  "syl": 6
+ },
+ {
+  "start": 4.56,
+  "end": 5.86,
+  "text": "Not hidden behind a cloud.",
+  "syl": 7
+ },
+ {
+  "start": 6.32,
+  "end": 6.94,
+  "text": "Gone.",
+  "syl": 1
+ },
+ {
+  "start": 7.66,
+  "end": 9.36,
+  "text": "What would actually happen to us?",
+  "syl": 9
+ },
+ {
+  "start": 9.88,
+  "end": 14.14,
+  "text": "It's a clear night. Millions of people are staring at a bright full Moon.",
+  "syl": 17
+ },
+ {
+  "start": 14.56,
+  "end": 15.06,
+  "text": "And then,",
+  "syl": 2
+ },
+ {
+  "start": 15.34,
+  "end": 16.24,
+  "text": "without a sound,",
+  "syl": 4
+ },
+ {
+  "start": 16.62,
+  "end": 17.54,
+  "text": "it vanishes.",
+  "syl": 3
+ },
+ {
+  "start": 18,
+  "end": 20.98,
+  "text": "For about one point three seconds, nothing changes.",
+  "syl": 11
+ },
+ {
+  "start": 21.46,
+  "end": 23.96,
+  "text": "That's how long the Moon's last light takes to reach us.",
+  "syl": 11
+ },
+ {
+  "start": 24.42,
+  "end": 26.18,
+  "text": "Then the sky goes dark. Phones come out.",
+  "syl": 8
+ },
+ {
+  "start": 26.54,
+  "end": 31.46,
+  "text": "Astronomers panic. But the real problems are only getting started.",
+  "syl": 17
+ },
+ {
+  "start": 31.88,
+  "end": 33.38,
+  "text": "First, the oceans.",
+  "syl": 4
+ },
+ {
+  "start": 33.86,
+  "end": 36.08,
+  "text": "The Moon's gravity creates most of our tides.",
+  "syl": 10
+ },
+ {
+  "start": 36.48,
+  "end": 41.26,
+  "text": "Without it, only the Sun is left to pull on the water, and tides shrink by more than half.",
+  "syl": 22
+ },
+ {
+  "start": 41.72,
+  "end": 42.82,
+  "text": "That sounds small.",
+  "syl": 3
+ },
+ {
+  "start": 43.28,
+  "end": 43.8,
+  "text": "It isn't.",
+  "syl": 2
+ },
+ {
+  "start": 44.24,
+  "end": 45.44,
+  "text": "Tide pools dry out. Crabs,",
+  "syl": 5
+ },
+ {
+  "start": 45.78,
+  "end": 50.14,
+  "text": "snails, and sea stars that live by the rhythm of the tides start dying.",
+  "syl": 14
+ },
+ {
+  "start": 50.6,
+  "end": 52.58,
+  "text": "And the animals that eat them are next.",
+  "syl": 10
+ },
+ {
+  "start": 53.08,
+  "end": 54.82,
+  "text": "Then, there's the darkness.",
+  "syl": 5
+ },
+ {
+  "start": 55.28,
+  "end": 57.84,
+  "text": "Without moonlight, nights turn pitch black.",
+  "syl": 8
+ },
+ {
+  "start": 58.32,
+  "end": 61.38,
+  "text": "Corals that spawn by the light of the full Moon lose their signal.",
+  "syl": 15
+ },
+ {
+  "start": 61.74,
+  "end": 63.92,
+  "text": "Whole reefs could stop reproducing together.",
+  "syl": 12
+ },
+ {
+  "start": 64.42,
+  "end": 66.64,
+  "text": "But the biggest change is the slowest one.",
+  "syl": 10
+ },
+ {
+  "start": 67.14,
+  "end": 70.42,
+  "text": "Right now, Earth is tilted at about twenty-three and a half degrees.",
+  "syl": 16
+ },
+ {
+  "start": 70.86,
+  "end": 73.42,
+  "text": "That tilt gives us steady, predictable seasons.",
+  "syl": 12
+ },
+ {
+  "start": 73.74,
+  "end": 75.38,
+  "text": "And the Moon is what keeps it steady.",
+  "syl": 9
+ },
+ {
+  "start": 75.86,
+  "end": 78.3,
+  "text": "Without the Moon, Earth starts to wobble.",
+  "syl": 9
+ },
+ {
+  "start": 78.72,
+  "end": 83.6,
+  "text": "Not overnight. But over millions of years, the tilt could drift by tens of degrees.",
+  "syl": 20
+ },
+ {
+  "start": 84.06,
+  "end": 86.94,
+  "text": "Summers so hot the tropics become unlivable.",
+  "syl": 13
+ },
+ {
+  "start": 87.28,
+  "end": 89.96,
+  "text": "Winters that bury entire continents in ice.",
+  "syl": 12
+ },
+ {
+  "start": 90.3,
+  "end": 93.22,
+  "text": "A climate that swings from one extreme to the other.",
+  "syl": 13
+ },
+ {
+  "start": 94.52,
+  "end": 96.3,
+  "text": "So, could we survive?",
+  "syl": 5
+ },
+ {
+  "start": 96.86,
+  "end": 98.74,
+  "text": "Probably. Humans are stubborn.",
+  "syl": 8
+ },
+ {
+  "start": 99,
+  "end": 101.42,
+  "text": "We'd adapt, we'd build, and we'd move.",
+  "syl": 8
+ },
+ {
+  "start": 101.88,
+  "end": 105.56,
+  "text": "But our world would be darker, stranger, and far less predictable.",
+  "syl": 16
+ },
+ {
+  "start": 106,
+  "end": 108.88,
+  "text": "And no one would ever see a total solar eclipse again.",
+  "syl": 16
+ },
+ {
+  "start": 109.48,
+  "end": 111.84,
+  "text": "So the next time you see the Moon, take a second.",
+  "syl": 12
+ },
+ {
+  "start": 112.32,
+  "end": 114.24,
+  "text": "It's doing a lot more for you than you think.",
+  "syl": 10
+ }
+]
